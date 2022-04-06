@@ -23,7 +23,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/srebrenik/sreb.io/edit/main/docs/',
+          editUrl: 'https://github.com/srebrenik/sreb.io/edit/main/',
           editLocalizedFiles: true,
         },
         blog: {
