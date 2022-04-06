@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksreb_io=self.webpackChunksreb_io||[]).push([[842],{4561:function(e){e.exports=JSON.parse('{"allTagsPath":"/ru/blog/tags","name":"facebook","count":1,"permalink":"/ru/blog/tags/facebook"}')}}]);
