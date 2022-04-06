@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "sreb.io",
+    "description": "The title in the navbar"
+  },
+  "item.label.intro": {
+    "message": "intro",
+    "description": "Navbar item with label intro"
+  },
+  "item.label.blog": {
+    "message": "blog",
+    "description": "Navbar item with label blog"
+  },
+  "item.label.github": {
+    "message": "github",
+    "description": "Navbar item with label github"
+  }
+}
