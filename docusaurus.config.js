@@ -23,8 +23,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/srebrenik/sreb.io/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/srebrenik/sreb.io/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
