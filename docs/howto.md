@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+sidebar_label: How to
+hide_title: true
 ---
 
 ## How to
