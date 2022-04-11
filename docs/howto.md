@@ -10,7 +10,7 @@ hide_title: true
 
 Srebrenik is distributed at no cost to anyone who donates cryptocurency to a list of known organisations.
 
-Srebrenik monitors a list of specific Polkadot addresses known to be owned and under the control of specific organisations which accept donations at those addresses.
+The Srebrenik faucet bot monitors a list of specific Polkadot addresses known to be owned and under the control of specific organisations which accept donations at those addresses.
 
 The current list follows:
 - `1x8aa2N2Ar9SQweJv9vsuZn3WYDHu7gMQu1RePjZuBe33Hv` see: https://twitter.com/ukraine/status/1498547710697345027
