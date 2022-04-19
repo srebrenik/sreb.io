@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: Республика Русь
-hide_title: true
+hide_title: false
 ---
 
 ## Цель проекта
