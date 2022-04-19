@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+sidebar_label: Republic of Rus
 ---
 
 ## Objective of the project
