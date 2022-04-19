@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: Republic of Rus
+title: Republic of Rus
 hide_title: false
 ---
 
