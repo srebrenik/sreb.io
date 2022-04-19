@@ -53,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'intro',
+            label: 'Republic of Rus',
           },
           {to: '/blog', label: 'blog', position: 'left'},
           {
@@ -74,7 +74,7 @@ const config = {
             title: 'docs',
             items: [
               {
-                label: 'intro',
+                label: 'Republic of Rus',
                 to: '/docs/intro',
               },
             ],
