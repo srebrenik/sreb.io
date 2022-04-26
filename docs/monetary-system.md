@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 sidebar_label: Monetary System
+title: Monetary System
 hide_title: false
 ---
 
