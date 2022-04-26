@@ -19,26 +19,35 @@ Zlatnik, in its essence, is a representation of a share in the power generated o
 
 One of the most important properties of Zlatnik is the ability to generate Srebrenik.
 
-This means that a certain amount of Zlatnik, blocked on the so-called free deposit, will generate Srebrenik. The Srebrenik generation rate is described by the equation; dSrbn/dt = ae-(Zltn-b)^2/2c^2+r  The generation rate is always positive and depends on the amount of Zltn on the free account.
+This means that a certain amount of Zlatnik, blocked on the so-called free deposit, will generate Srebrenik. The Srebrenik generation rate is described by the equation; d**Srbn**/dt = aexp<sup>-(Zltn-b)^2/2c^2</sup>**+r**  The generation rate is always positive and depends on the amount of Zltn on the free account.
 
 Zltn - the amount of Zlatnik on the "free deposit"
 
 a,b,c,r – correction factors
 
+---
 
-It is important to note that the more Zlatnik in total on all deposits, the more Srebrennek can be accumulated on the corresponding account - dSrbn/dt =kexp(Srbn/hZltn0)+w
+However, this does not mean that Srebrenik will accumulate in the account of the deposit holder indefinitely. Srebrenik is a form of so-called Free Money (Freigeld). This means that Srebrenik will be subject to a special tax - demurrage, which stimulates the high speed of their circulation.
+Demurrage is the cost associated with holding or holding a currency for a specific period. It is sometimes referred to as the book value of money.
+Currently, the demurrage rate is zero. Demurrage will be introduced no earlier than 1 year from the date of release into free circulation of Zlatnik.
 
-– dSrbn/dt – rate of sinking of Srebrenik, demurrage
 
-Zltn0 - the total amount of Zlatnik on all deposits of one account
+It is important to note that the more Zlatnik in total on all deposits, the more Srebrennek can be accumulated on the corresponding account - d**Srbn**/dt =kexp<sup>(**Srbn**/h**Zltn**<sub>0</sub>)</sup>+w
 
-Srbn - the amount on Srebrenik's deposit
+– d**Srbn**/dt – rate of sinking of Srebrenik, demurrage
+
+**Zltn**<sub>0</sub> - the total amount of Zlatnik on all deposits of one account
+
+**Srbn** - the amount on Srebrenik's deposit
 
 k,h,w - correction factors
 
 In other words, if you accumulate Srebrenik and do not spend it, then at some point the equilibrium point will be reached. In this point, your deposit in Zlatniki will generate exactly as much Srebrenik as the amount of the demurrage payment. The same will happen with an excess of Srebrenik's savings in the account. The entire surplus will gradually be spent on the payment of demurrage and equilibrium will be established at the same point. Keeping an excess of Srebrenik on the account in such a situation is extremely unprofitable. In the event that there is a significant excess of Srebrenik, then it would be more profitable, for example, to give an interest-free loan or even a loan with a negative interest, which will be lower than the amount of demurrage. Such a system would encourage the use of Srebrenik as the main unit of account.
 
-What is the point in creating such a system the economic system of the Republic of Rus’, will be built on the basis of a dual monetary system, pursues several important goals at once? 
+### What is the point in creating such a system
+
+the economic system of the Republic of Rus’, will be built on the basis of a dual monetary system, pursues several important goals at once? 
+
 1. Stimulates the reduction of energy costs and the development of energy-saving technologies 
 2. Provides an unconditional basic income to any citizen 
 3. Stimulates the turnover of funds in the economy 
