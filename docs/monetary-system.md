@@ -11,7 +11,7 @@ The monetary system of the Republic of Rus’ will consist of two types of money
 1. Zlatnik - commensurate with power, i.e. characterizes the instantaneous rate of energy transfer from one physical system to another in the process of its use.
 2. Srebrenik - has the dimension of energy and is a measure of work, i.e. measure of energy change in a process. In addition, Zlatnik is a form of so-called [Free Money (Freigeld)](https://en.wikipedia.org/wiki/Freigeld).
 
-> Currently, the demurrage rate is zero. That is, you can accumulate any amount of Srebrenik on your account. In the future, you will be able to freely convert Srebrenik into Zlatnik.
+> Currently, the [demurrage](https://en.wikipedia.org/wiki/Demurrage_(currency)) rate is zero. That is, you can accumulate any amount of Srebrenik on your account. In the future, you will be able to freely convert Srebrenik into Zlatnik.
 
 ### How will it work
 
