@@ -55,6 +55,12 @@ const config = {
             position: 'left',
             label: 'Republic of Rus',
           },
+          {
+            type: 'doc',
+            docId: 'monetary-system',
+            position: 'left',
+            label: 'Monetary System',
+          },
           {to: '/blog', label: 'blog', position: 'left'},
           {
             href: 'https://github.com/srebrenik/sreb.io',
@@ -76,6 +82,10 @@ const config = {
               {
                 label: 'Republic of Rus',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Monetary System',
+                to: '/docs/monetary-system',
               },
             ],
           },
