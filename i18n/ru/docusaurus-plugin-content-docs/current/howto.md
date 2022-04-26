@@ -2,7 +2,7 @@
 sidebar_position: 2
 sidebar_label: How to
 title: Как получить SRBN
-hide_title: true
+hide_title: false
 ---
 
 1. **Пожертвовав любую произвольную сумму в Polkadot или Kusama одной из Украинских благотворительных организаций, включенных в список**
