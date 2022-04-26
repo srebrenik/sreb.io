@@ -28,7 +28,9 @@ a,b,c,r – correction factors
 ---
 
 However, this does not mean that Srebrenik will accumulate in the account of the deposit holder indefinitely. Srebrenik is a form of so-called Free Money (Freigeld). This means that Srebrenik will be subject to a special tax - demurrage, which stimulates the high speed of their circulation.
-Demurrage is the cost associated with holding or holding a currency for a specific period. It is sometimes referred to as the book value of money.
+
+[Demurrage](https://en.wikipedia.org/wiki/Demurrage_(currency)) is the cost associated with holding or holding a currency for a specific period. It is sometimes referred to as the book value of money.
+
 Currently, the demurrage rate is zero. Demurrage will be introduced no earlier than 1 year from the date of release into free circulation of Zlatnik.
 
 
