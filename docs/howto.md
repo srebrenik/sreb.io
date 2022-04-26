@@ -1,12 +1,10 @@
 ---
 sidebar_position: 2
 sidebar_label: How to
-hide_title: true
+title: How to obtain Srebrenik
+hide_title: false
 ---
 
-## How to
-
-### How to obtain Srebrenik
 1. **Support Ukraine and receive SRBN from us as a thank you for your help**
 
    By donating any arbitrary amount in Polkadot or Kusama to one of the Ukrainian charitable organizations included in the list, you will receive the equivalent amount in SRBN in your account. Send Polkadot tokens to a charity of your choice from a Polkadot wallet for which you have keys (do not send Polkadot tokens from an exchange address for which you do not have mnemonic keys). When the Srebrenik Collector Bot detects your donation, it will send the equivalent amount in SRBN to the Srebrenik account with the same mnemonic code as the donation sender's account. Coins will be issued at a certain rate proportional to the number of donated tokens.
